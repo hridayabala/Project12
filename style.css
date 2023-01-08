@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+main{
+    background-color:rgba(0, 0, 0, 0.281);
+    padding:40px;
+    color:white;
+    margin-bottom:8%;
+}
+
+ul{
+    list-style:none;
+    display:flex;
+    margin: 0% 25%;
+}
+
+a{
+    text-decoration:none;
+    background-color:bisque;
+    padding:20px;
+    color:rgb(105, 76, 39);
+    font-size:30px;
+    margin-right:40px;
+    border-radius:25px;
+}
+
+a:hover{
+    background-color:rgb(105, 76, 39);
+    color:bisque;
+}
+
+h1{
+    font-size:50px;
+}
